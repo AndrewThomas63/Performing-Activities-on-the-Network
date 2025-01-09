@@ -8,7 +8,7 @@ These are the two Virtual Machines I set up Using the Cloud computing names Azur
 This is me Downloading Wireshark
 ![Screenshot (120)](https://github.com/user-attachments/assets/0ef82916-2387-4517-84e7-ecc137fb86f4)
 This is the Wireshark environment
-![Screenshot (121)](https://github.com/user-attachments/assets/add39ee1-e12a-4c4f-af07-36fa1bb38907
+![Screenshot (121)](https://github.com/user-attachments/assets/add39ee1-e12a-4c4f-af07-36fa1bb38907)
 This is just the unflitered traffic that goes in the background of the Virtual Machine
 
 # ICMP Traffic
