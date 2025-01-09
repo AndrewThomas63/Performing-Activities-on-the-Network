@@ -29,7 +29,7 @@ Here I'm looking at The Physical address in both powershell and wire shark.
 
 
 ![Screenshot (126)](https://github.com/user-attachments/assets/b53c665b-7a1c-4307-8497-f74c0fbeba10)
-Here I'm looking at the source address
+Here I'm just looking at the source address
 
 
 ![Screenshot (127)](https://github.com/user-attachments/assets/804146c0-fa8f-4539-8d6a-c83f2c985d63)
@@ -55,7 +55,7 @@ Here I deleted the ICMP rule
 ![Screenshot (132)](https://github.com/user-attachments/assets/81d6f7cb-929c-4c60-b11d-28a826e8546a)
 After the security rule has been deleted, the ping started to work again
 
-# SSH Trafdic 
+# SSH Traffic 
 ![Screenshot (133)](https://github.com/user-attachments/assets/d40441b7-2699-416b-b5fd-2a2dc25da369)
 Here I am filtering for SSH traffic while i simultaneously logging into the Linux virtual machine that I have created
 
